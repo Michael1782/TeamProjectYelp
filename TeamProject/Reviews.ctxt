@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Reviews
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Reviews\ here.\r\n\r\n\ @Henry\ Duong,\ Michael\ St\ Angelo,\ Brandon\ Fournier\r\n\ @version\ December\ 2019\r\n
+comment1.params=id\ author\ rating\ body
+comment1.target=Reviews(int,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Reviews\r\n
+comment2.params=
+comment2.target=java.lang.String\ getBody()
+comment3.params=
+comment3.target=int\ getRating()
+comment4.params=
+comment4.target=java.lang.String\ getAuthor()
+comment5.params=
+comment5.target=int\ getId()
+numComments=6

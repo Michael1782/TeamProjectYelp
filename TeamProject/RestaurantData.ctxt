@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=RestaurantData
+comment1.params=uname\ pword
+comment1.target=RestaurantData(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RestaurantData\r\n
+comment2.params=
+comment2.target=boolean\ isOpen()
+comment3.params=
+comment3.target=void\ close()
+comment4.params=
+comment4.target=RestaurantsList\ getList()
+comment5.params=
+comment5.target=void\ updateRestaurants()
+comment6.params=kbd
+comment6.target=void\ makeRestaurant(java.util.Scanner)
+comment7.params=
+comment7.target=void\ updateReviews()
+comment8.params=kbd
+comment8.target=void\ makeReview(java.util.Scanner)
+numComments=9

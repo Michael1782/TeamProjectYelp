@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=RestaurantsList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RestaurantsList\ here.\r\n\r\n\ @author\ Henry\ Duong,\ Brandon\ Fournier,\ Michael\ St\ Angelo\r\n\ @version\ 2019\r\n
+comment1.params=
+comment1.target=RestaurantsList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RestaurantsList\r\n
+comment10.params=
+comment10.target=void\ listAll()
+comment11.params=sc
+comment11.target=java.lang.String\ getMenu(java.util.Scanner)
+comment2.params=nRest
+comment2.target=void\ addRestaurant(Restaurants)
+comment3.params=index\ nReview
+comment3.target=void\ addReview(int,\ Reviews)
+comment4.params=location
+comment4.target=java.lang.String\ searchLocations(java.lang.String)
+comment5.params=name
+comment5.target=java.lang.String\ searchName(java.lang.String)
+comment6.params=name
+comment6.target=int\ searchNameForId(java.lang.String)
+comment7.params=foodtype
+comment7.target=java.lang.String\ searchFoodType(java.lang.String)
+comment8.params=price
+comment8.target=java.lang.String\ searchPrice(java.lang.String)
+comment9.params=id
+comment9.target=int\ searchId(int)
+numComments=12
